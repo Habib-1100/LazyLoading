@@ -1,0 +1,33 @@
+.card {
+    background-color: #f8f9fa; /* Light gray background */
+    border: 1px solid #dee2e6; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  .card-title {
+    color: #007bff; /* Primary color for card titles */
+    font-size: 1.2rem; /* Larger font size for titles */
+    margin-bottom: 10px; /* Bottom margin for spacing */
+  }
+  
+  .card-text {
+    color: #495057; /* Dark color for card text */
+    margin-bottom: 5px; /* Bottom margin for spacing */
+  }
+  
+  .card-text span {
+    font-weight: bold; /* Bold font for specific text */
+  }
+  
+  .card-text span.font-italic {
+    font-style: italic; /* Italic font for specific text */
+  }
+  
+  .card-text span.text-info {
+    color: #17a2b8; /* Info color for specific text */
+  }
+  
+  .card-text span.text-success {
+    color: #28a745; /* Success color for specific text */
+  }
+  
